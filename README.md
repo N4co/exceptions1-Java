@@ -1,2 +1,8 @@
-Solução muito ruim porque a lógica de validação da Reserva está Programa principal
-Problema identificado a solução é delegar a lógica para classe correta.
+1- PROJETO CRIADO TESTANDO TRÊS SOLUÇÕES 
+
+MUITO RUIM PORQUE A LÓGICA DE VALIDAÇÃO ESTA EM UMA CLASSE PROGRAMA, FUNCIONA, O IDEAL É ESTAR EM UMA CLASSE DELEGADA
+
+
+2- RUIM POQUE QUANDO O OCORRE UM ERRO NA LÓGICA DE VALIDAÇÃO RETORNA O MÉTODO STRING
+
+3- BOA PORQUE UTILIZAMOS O TRATAMENTO DE EXCEÇÕES
